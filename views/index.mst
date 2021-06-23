@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en">
+  {{> head }}
+    {{> header }}
+
+    <br><br>
+    <div class="container justify-content-md-center" style="text-align: center; font-size: 40px;">
+      <div class="row justify-content-md-center">Welcome!</div><br>
+      <div class="row justify-content-md-center">This is a free service that allows the user to view air pollution and other statistics in Ukraine.</div><br>
+    </div>
+
+    {{> footer }}
+  </body>
+</html>
